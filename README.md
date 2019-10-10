@@ -17,4 +17,4 @@ Android app that calculates the shortest distance between 2 locations on map, ba
 - **Dagger**
 - **Mockito**
 - **Junit5**
-- **Rx**
+- **RxJava**
