@@ -6,8 +6,8 @@ Android app that calculates the shortest distance between 2 locations on map, ba
 
 
 
-![](Screenshot1.png)
-![](Screenshot2.png)
+![](Screenshot1.png | width=500)
+![](Screenshot2.png | width=500)
 
 
 ## Tech Stack
